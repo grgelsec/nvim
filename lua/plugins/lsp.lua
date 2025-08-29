@@ -123,6 +123,7 @@ return {
             },
           },
         },
+        clangd = {},
       },
       setup = {},
     },
